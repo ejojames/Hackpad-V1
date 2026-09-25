@@ -1,4 +1,6 @@
 Hackpad V1
+
+
 Hackpad V1 is my custom 7-key mechanical macropad featuring a rotary encoder and an OLED display! Powered by a Seeed Studio XIAO RP2040 microcontroller and running custom QMK firmware.
 
 Built as my submission for the Hackpad YSWS!
